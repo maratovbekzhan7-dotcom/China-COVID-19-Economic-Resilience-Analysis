@@ -1,7 +1,7 @@
 # Economic Resilience Index (ERI): China During COVID-19
 
 
-Click [here](README.md) to see the Chinese document.  
+Click [here](README_CH.md) to see the Chinese document.  
 
 ## Overview
 
