@@ -1,6 +1,6 @@
 # 经济韧性指数（ERI）：中国在新冠疫情期间的区域分析
 
-点击 [这里](Economic_Resilience-China/README.md) 查看英文文档.    
+点击 [这里](README.md) 查看英文文档.      
 
 ## 项目概述
 
