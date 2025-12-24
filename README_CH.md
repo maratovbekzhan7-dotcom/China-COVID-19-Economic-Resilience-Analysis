@@ -1,6 +1,6 @@
 # 经济韧性指数（ERI）：中国在新冠疫情期间的区域分析
 
-点击 [这里]() 查看英文文档.    
+点击 [这里](Economic_Resilience-China/README.md) 查看英文文档.    
 
 ## 项目概述
 
@@ -51,7 +51,7 @@
 
 该地图展示了新冠疫情期间中国各省经济韧性的空间分布情况。
 
-![ERI 地图](data/visuals/maps/map_eri_covid.png)
+<img src="Economic_Resilience-China/data/visuals/maps/map_eri-covid.png" width="600">
 
 * 颜色越深，表示经济韧性越强
 * 颜色越浅，表示经济韧性越弱
@@ -62,13 +62,8 @@
 
 以下图表展示了经济韧性指数的统计特征。
 
-#### ERI 分布情况
+<img src="Economic_Resilience-China/data/visuals/plots/plot-2.png" width="600">
 
-![ERI 分布](data/visuals/plots/eri_distribution.png)
-
-#### ERI 趋势线
-
-![ERI 趋势](data/visuals/plots/eri_trend.png)
 
 ---
 
